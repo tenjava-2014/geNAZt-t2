@@ -1,0 +1,3 @@
+name: geNAZt-t2
+main: com.tenjava.entries.geNAZt.t2.TenJava
+version: '${project.version}'
